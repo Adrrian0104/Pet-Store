@@ -1,7 +1,7 @@
 <?php
     $host      ="localhost";
     $port      ="5432";
-    $dbname    ="Pet-Store";
+    $dbname    ="petstore";
     $user      ="postgres";
     $password  ="unicesmag";  
     
@@ -18,6 +18,6 @@
     }else{
         echo "conection success!!!";
     }
-    pg_close($conn);
+   // pg_close($conn);
 
 ?>
