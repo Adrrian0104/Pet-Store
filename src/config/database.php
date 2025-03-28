@@ -1,7 +1,7 @@
 <?php
     $host      ="localhost";
     $port      ="5432";
-    $dbname    ="";
+    $dbname    ="Pet-Store";
     $user      ="postgres";
     $password  ="unicesmag";  
     
