@@ -10,7 +10,7 @@
 
     ";
     $ans = pg_query($conn, $sql);
-    if($ans){
+    if($ans){//$ans==true
         echo " user has been created successfully";
     }else{
         echo "Error";
