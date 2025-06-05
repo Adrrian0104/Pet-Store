@@ -1,8 +1,8 @@
 <?php
-$host      ="aws-0-us-east-1.pooler.supabase.com";
+$host      ="aws-0-us-east-2.pooler.supabase.com";
 $port      ="6543";
-$dbname    ="petstore";
-$user      ="postgres.oakkqatosadkpaoplsla";
+$dbname    ="postgres";
+$user      ="postgres.dgecauxdraqfyluotbkh";
 $password  ="unicesmag@@"; 
 /*
     $host      ="localhost";
